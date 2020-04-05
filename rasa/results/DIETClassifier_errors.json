@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Tell me aboutBob",
+    "entities": [
+      {
+        "start": 13,
+        "end": 16,
+        "value": "Bob",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  }
+]

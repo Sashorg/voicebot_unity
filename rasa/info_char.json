@@ -1,0 +1,30 @@
+{
+  "bob":{
+	"action_hello":"hello my son",
+	"action_bye":"bye my son",
+	"action_opinion":{
+		"bob":"Son, it is me!",
+		"tom":"I do not reallly know him",
+		"kenny":"He is dead, isn`t he"
+	}
+},
+  "tom":{
+	"action_hello":"hello bro",
+	"action_bye":"bye broccolo",
+	"action_opinion":{
+		"bob":"good priest",
+		"tom":"hah, it is me!",
+		"kenny":"my best friend"
+	}
+},
+  "kenny":{
+	"action_hello":"CIAAAAAAAAAO",
+	"action_bye":"go dump yourself",
+	"action_opinion":{
+		"bob":"he serves to good, but do not trust him",
+		"tom":"Love him, he is the best",
+		"kenny":"it is me broccolo"
+	}
+}
+    
+}
